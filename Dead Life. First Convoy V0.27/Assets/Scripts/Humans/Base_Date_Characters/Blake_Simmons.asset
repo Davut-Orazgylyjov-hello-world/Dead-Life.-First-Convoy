@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65faf696bbe501c47b1ee2fecadc9a8a, type: 3}
+  m_Name: Blake_Simmons
+  m_EditorClassIdentifier: 
+  Man: 1
+  Name: Blake
+  Surname: Simmons
+  Avatar: {fileID: 21300000, guid: 120e186641cb5524c8768a7fd56a3307, type: 3}
+  LvL: 8
+  Strength: 3
+  Agility: 3
+  Intellect: 3
+  "\u0421harisma": 3

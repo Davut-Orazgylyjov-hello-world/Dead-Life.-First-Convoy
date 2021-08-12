@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f7996a4dbddf1f44a55834ac5770e65, type: 3}
+  m_Name: usual
+  m_EditorClassIdentifier: 
+  Russian: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  English: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  French: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Japanese: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Italian: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Spanish: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Arab: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Vietnamese: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Danish: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Chinese_trad: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Korean: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Norwegian: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Portuguese: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Turkish: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Finnish: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Swedish: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  German: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Bulgarian: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Hungarian: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Greek: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Chinese_simpl: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Dutch: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Polish: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Romanian: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Thai: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Ukrainian: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  Czech: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
